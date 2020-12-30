@@ -1,0 +1,10 @@
+app_identifier("ru.rds.gift") # The bundle identifier of your app
+apple_id("black_pol@mail.ru") # Your Apple email address
+
+itc_team_id("122508468") # App Store Connect Team ID
+team_id("Z95MCX3Q6Y") # Developer Portal Team ID
+itc_team_id("122508468") # App Store Connect Team ID
+team_id("Z95MCX3Q6Y") # Developer Portal Team ID
+
+# For more information about the Appfile, see:
+#     https://docs.fastlane.tools/advanced/#appfile
